@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SqlServerConnection": "Server=localhost;Database=quickbuy;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
